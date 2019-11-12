@@ -1,0 +1,17 @@
+{
+    "name": "makeflow/makeflow-sdk",
+    "description": "SDK for Makeflow",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Y!an",
+            "email": "i@yian.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Makeflow\\": "src/"
+        }
+    },
+    "require": {}
+}
